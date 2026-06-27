@@ -4,21 +4,6 @@
 
 ---
 
-## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Real-World Use Case](#real-world-use-case)
-- [AI Agent Automation](#ai-agent-automation)
-- [Project Structure](#project-structure)
-- [UI Design](#ui-design)
-- [How It Works](#how-it-works)
-- [How to Use](#how-to-use)
-- [System Design & Workflow](#system-design--workflow)
-- [Setup Instructions](#setup-instructions)
-
----
-
 ## 📦 Project Overview
 
 **Smart Inventory Management System** is an intelligent full-stack application that combines modern web technologies with AI-powered automation. It helps businesses manage their product inventory efficiently by monitoring stock levels and automatically generating supplier reorder emails when items fall below minimum stock thresholds.
