@@ -1,4 +1,4 @@
-# Smart Inventory Management System with AI Agent
+# Smart Inventory Management System with AI Agent.
 
 ![Inventory System](https://img.shields.io/badge/Status-Active-brightgreen) ![License](https://img.shields.io/badge/License-ISC-blue) ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
 
