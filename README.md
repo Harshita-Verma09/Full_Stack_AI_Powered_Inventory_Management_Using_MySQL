@@ -286,9 +286,9 @@ App (Main Component)
 │   Inventory Form       │   AI Report Panel  │
 │   (Add Products)       │   (Results & Info) │
 │                        │                    │
-│─────────────────────────┤                    │
-│   Inventory Table       │                    │
-│   (All Products)        │                    │
+│────────────────────────┤                    │
+│   Inventory Table      │                    │
+│   (All Products)       │                    │
 │                        │                    │
 └────────────────────────┴────────────────────┘
 ```
